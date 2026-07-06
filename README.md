@@ -19,7 +19,7 @@ Este repositório contém o Projeto 3 da disciplina de Programação Avançada. 
 
 ## Demonstração de Funcionamento
 
-![Execução Integrada](caminho-do-seu-print-com-as-janelas.jpg)
+![Execução Integrada](imagem-projeto3/imagempeojeto.png)
 Figura 1: Execução simultânea do Servidor TCP, Cliente Produtor enviando pacotes e Cliente Consumidor renderizando o histórico gráfico correspondente.
 
 ---
