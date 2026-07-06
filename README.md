@@ -19,7 +19,7 @@ Este repositório contém o Projeto 3 da disciplina de Programação Avançada. 
 
 ## Demonstração de Funcionamento
 
-![Execução Integrada](imagem-projeto3/imagempeojeto.png)
+![Execução Integrada](imagem-projeto3/fotoprojeto.png)
 Figura 1: Execução simultânea do Servidor TCP, Cliente Produtor enviando pacotes e Cliente Consumidor renderizando o histórico gráfico correspondente.
 
 ---
