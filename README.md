@@ -41,7 +41,3 @@ Como ambos os projetos utilizam o CMake, o processo de compilação é idêntico
 2. No Consumidor: Digite `127.0.0.1`, clique em *Connect*, clique em *Update* para atualizar a lista, selecione o IP na lista e clique em Start. 
 3. O gráfico começará a traçar a série temporal instantaneamente.
 
----
-**Desenvolvido por:** [SEU NOME AQUI]  
-**Matrícula:** [SUA MATRÍCULA AQUI]  
-**Curso:** Engenharia de Computação / UFRN
